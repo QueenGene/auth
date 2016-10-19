@@ -1,0 +1,23 @@
+.login-form{
+    width: 30%;
+}
+
+.login-button{
+    padding: 10px;
+    background-color: darkblue;
+    width: 80px;
+}
+
+.logout-button{
+    padding: 10px;
+    background-color: blueviolet;
+    width: 80px;
+}
+
+.login-button p,
+.logout-button p{
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+}
+
